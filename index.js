@@ -1,6 +1,6 @@
-var kittens = ["Milo", "Otis", "Garfield"] //define your array here
+var kittens = ["Milo", "Otis", "Garfield"] ;
 
 function destructivelyAppendKitten(kittens) {
   kittens.push(name);
-  return kittens
+  return kittens;
 }
